@@ -13,11 +13,11 @@ const Tab = createDrawerNavigator ()
 function MyTabs() {
     return (
         <Tab.Navigator>
-        <Tab.Screen name="Default0" component={Default0} />
-<Tab.Screen name="Favoritos1" component={Favoritos1} />
-<Tab.Screen name="Tuperfil2" component={Tuperfil2} />
-<Tab.Screen name="Registrarse3" component={Registrarse3} />
-<Tab.Screen name="Pruebasencontradasde4" component={Pruebasencontradasde4} />
+            <Tab.Screen name="Default0" component={Default0} />
+            <Tab.Screen name="Favoritos1" component={Favoritos1} />
+            <Tab.Screen name="Tuperfil2" component={Tuperfil2} />
+            <Tab.Screen name="Registrarse3" component={Registrarse3} />
+            <Tab.Screen name="Pruebasencontradasde4" component={Pruebasencontradasde4} />
         </Tab.Navigator>
     )
 }
