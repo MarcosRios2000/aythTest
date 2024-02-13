@@ -1,5 +1,5 @@
 export const style = {
-  aythpruebasencvv8mji: {
+  aythpruebasenc79ps5h: {
     position: 'relative',
     top: 0,
     left: 0,
@@ -7,7 +7,7 @@ export const style = {
     height: '100%',
     display: 'flex',
   },
-  aythpruebasenc4jk0q: {
+  aythpruebasencahx33b: {
     color: "transparent",
     zIndex: 0,
     opacity: 100,
@@ -26,7 +26,7 @@ export const style = {
     display: 'flex',
     alignItems: 'center',
   },
-  aythFrame154779o3hvv: {
+  aythFrame15477qb63oc: {
     top: 0,
     left: 0,
     width: 360,
@@ -44,7 +44,7 @@ export const style = {
     justifyContent: "flex-start",
     strokeMiterlimit: 4,
   },
-  aythunsplashOnyg6fvn: {
+  aythunsplashOn6wtrhm: {
     top: 0,
     left: 0,
     width: 360,
@@ -57,7 +57,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythFrame15477usqnd: {
+  aythFrame15477iam3zl: {
     top: 0,
     left: 0,
     width: 360,
@@ -78,7 +78,7 @@ export const style = {
     backgroundColor: "rgba(252.00000017881393, 236.00000113248825, 231.00000143051147, 1)",
     strokeMiterlimit: 4,
   },
-  aythFrame1547743pu6l: {
+  aythFrame15477gsygrb: {
     top: 0,
     left: 0,
     width: 320,
@@ -97,7 +97,7 @@ export const style = {
     justifyContent: "space-between",
     strokeMiterlimit: 4,
   },
-  aythFrame154771fpb6: {
+  aythFrame15477np1qbh: {
     top: 0,
     left: 0,
     width: 204,
@@ -115,7 +115,7 @@ export const style = {
     justifyContent: "flex-start",
     strokeMiterlimit: 4,
   },
-  aythPruebadeci8vcv1b: {
+  aythPruebadecin7ka2m: {
     top: 0,
     left: 0,
     width: 204,
@@ -134,7 +134,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythModalidadM4grolj: {
+  aythModalidadMfe5b24: {
     top: 0,
     left: 0,
     width: 175,
@@ -153,7 +153,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythFrame15477y74eax: {
+  aythFrame154772adeb: {
     top: 0,
     left: 0,
     width: 79,
@@ -172,7 +172,7 @@ export const style = {
     justifyContent: "flex-start",
     strokeMiterlimit: 4,
   },
-  aythVectorksy6yi: {
+  aythVectorzf82h: {
     top: 0,
     left: 0,
     width: 19,
@@ -184,7 +184,7 @@ export const style = {
     borderColor: "#f25910",
     strokeMiterlimit: 4,
   },
-  aythclarityshalfj7bp: {
+  aythclaritysha0ulk7: {
     top: 0,
     left: 0,
     width: 20,
@@ -200,7 +200,7 @@ export const style = {
     paddingBottom: 0,
     strokeMiterlimit: 4,
   },
-  aythVectorl0s0os: {
+  aythVector6kil5: {
     top: 0,
     left: 0,
     width: 17.14706802368164,
@@ -212,7 +212,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythVector03p90c: {
+  aythVectorxwmowj: {
     top: 0,
     left: 0,
     width: 20,
@@ -222,7 +222,7 @@ export const style = {
     visibility: "visible",
     strokeMiterlimit: 4,
   },
-  aythLIKESPOTSPboytyk: {
+  aythLIKESPOTSPkj9ay: {
     top: 0,
     left: 0,
     width: 20,
@@ -242,7 +242,7 @@ export const style = {
     justifyContent: "center",
     strokeMiterlimit: 4,
   },
-  aythVectorf6x2ri: {
+  aythVectorkj9uu8: {
     top: 0,
     left: 0,
     width: 16.668869018554688,
@@ -254,7 +254,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythLoremipsuma6lc9l: {
+  aythLoremipsum08oq: {
     top: 0,
     left: 0,
     width: 320,
@@ -273,7 +273,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythLainscripcvy194r: {
+  aythLainscripclc7yza: {
     top: 0,
     left: 0,
     width: 320,
@@ -291,7 +291,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythReseasdelaqtpg3k: {
+  aythReseasdela8nk95u: {
     top: 0,
     left: 0,
     width: 230,
@@ -310,7 +310,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythFrame154774eae9: {
+  aythFrame15477dr66d: {
     top: 0,
     left: 0,
     width: 178,
@@ -334,7 +334,7 @@ export const style = {
     borderTopRightRadius: 50,
     borderBottomRightRadius: 50,
   },
-  aythcilarrowtoaewp7a: {
+  aythcilarrowto79bax6: {
     top: 0,
     left: 0,
     width: 21,
@@ -355,7 +355,7 @@ export const style = {
     justifyContent: "center",
     strokeMiterlimit: 4,
   },
-  aythVectorp6ndse: {
+  aythVectorqb677l: {
     top: 0,
     left: 0,
     width: 11.043374061584473,
@@ -367,7 +367,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythCiclismop7g0f: {
+  aythCiclismodrcr59: {
     top: 0,
     left: 0,
     width: 85,
@@ -386,7 +386,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythMenInferiob64juh: {
+  aythMenInferiobji99b: {
     top: 0,
     left: 0,
     width: 360,
@@ -400,7 +400,7 @@ export const style = {
     paddingBottom: 0,
     strokeMiterlimit: 4,
   },
-  aythFrame15477xr1yoo: {
+  aythFrame154774wd305: {
     top: 0,
     left: 0,
     width: 360,
@@ -421,7 +421,7 @@ export const style = {
     backgroundColor: "rgba(242.00000077486038, 241.00000083446503, 248.0000004172325, 1)",
     strokeMiterlimit: 4,
   },
-  aythGroup11712qfcuh9: {
+  aythGroup117129pgb7: {
     top: 0,
     left: 0,
     width: 21.99801254272461,
@@ -430,7 +430,7 @@ export const style = {
     opacity: 100,
     visibility: "visible",
   },
-  aythVectorc0u8df: {
+  aythVectorv7xje: {
     top: 0,
     left: 0,
     width: 16.15557289123535,
@@ -443,7 +443,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythGroup11712b0s3q: {
+  aythGroup11712wtvq1s: {
     top: 0,
     left: 0,
     width: 14.992525100708008,
@@ -453,7 +453,7 @@ export const style = {
     rotation: 77.29829765458553,
     visibility: "visible",
   },
-  aythGroup117126058h: {
+  aythGroup11712lxrjwj: {
     top: 0,
     left: 0,
     width: 7.065061092376709,
@@ -463,7 +463,7 @@ export const style = {
     rotation: 77.29829806946351,
     visibility: "visible",
   },
-  aythVectorg4rylo: {
+  aythVectorvzf3qp: {
     top: 0,
     left: 0,
     width: 5.049888610839844,
@@ -476,7 +476,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythVectormm7awo: {
+  aythVectoru35qc6: {
     top: 0,
     left: 0,
     width: 4.03914737701416,
@@ -489,7 +489,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythVector7f4lia: {
+  aythVector4u8rtb: {
     top: 0,
     left: 0,
     width: 12.374458312988281,
@@ -502,7 +502,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythVectorwtmhlr: {
+  aythVectorq4usn4: {
     top: 0,
     left: 0,
     width: 22.727262496948242,
@@ -516,7 +516,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythCapturadepzxwij5: {
+  aythCapturadepiqcvcn: {
     top: 0,
     left: 0,
     width: 33,
@@ -528,7 +528,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythFrame15477as95t: {
+  aythFrame15477r8lg: {
     top: 0,
     left: 0,
     width: 20.025697708129883,
@@ -546,7 +546,7 @@ export const style = {
     justifyContent: "center",
     strokeMiterlimit: 4,
   },
-  aythFrame15477btp40h: {
+  aythFrame15477u2s1bh: {
     top: 0,
     left: 0,
     width: 20.025697708129883,
@@ -564,7 +564,7 @@ export const style = {
     justifyContent: "center",
     strokeMiterlimit: 4,
   },
-  aythGroup11712lg91bv: {
+  aythGroup1171238gs9l: {
     top: 0,
     left: 0,
     width: 20.025699615478516,
@@ -573,7 +573,7 @@ export const style = {
     opacity: 100,
     visibility: "visible",
   },
-  aythVectora8c4lr: {
+  aythVectorgs66vq: {
     top: 0,
     left: 0,
     width: 11.0266752243042,
@@ -585,7 +585,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythVectori0yaxy: {
+  aythVectorv5ure: {
     top: 0,
     left: 0,
     width: 18,
@@ -597,7 +597,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythGroup11712x5ivda: {
+  aythGroup11712n1ume: {
     top: 0,
     left: 0,
     width: 19.443374633789062,
@@ -606,7 +606,7 @@ export const style = {
     opacity: 100,
     visibility: "visible",
   },
-  aythVectorqeugpm: {
+  aythVector6pkhxx: {
     top: 0,
     left: 0,
     width: 19.443374633789062,
@@ -618,7 +618,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythVectors0fq5: {
+  aythVectorxhb57: {
     top: 0,
     left: 0,
     width: 11.632601737976074,
@@ -630,7 +630,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythEllipse719vuq6fh: {
+  aythEllipse719r43is: {
     top: 0,
     left: 0,
     width: 37,

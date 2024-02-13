@@ -10,7 +10,7 @@ import { LinearGradient } from "expo-linear-gradient";
 export default function Default0() {
   
   return (
-  <View style={styles.aythdefaultcd4kgi}><StatusBar style="auto"
+  <View style={styles.aythdefaultwmmpbb}><StatusBar style="auto"
   />
 </View>
 

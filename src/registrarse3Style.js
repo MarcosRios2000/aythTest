@@ -1,5 +1,5 @@
 export const style = {
-  aythregistrars7k8bmt: {
+  aythregistrarsslwxg: {
     position: 'relative',
     top: 0,
     left: 0,
@@ -7,7 +7,7 @@ export const style = {
     height: '100%',
     display: 'flex',
   },
-  aythregistrarsvqscid: {
+  aythregistrarsucuyru: {
     color: "transparent",
     zIndex: 0,
     display: "flex",
@@ -31,7 +31,7 @@ export const style = {
     display: 'flex',
     alignItems: 'center',
   },
-  aythFrame15477rgk9jd: {
+  aythFrame15477v3lo7f: {
     top: 0,
     left: 0,
     width: 360,
@@ -50,7 +50,7 @@ export const style = {
     justifyContent: "space-between",
     strokeMiterlimit: 4,
   },
-  aythFrame15477xmyrb: {
+  aythFrame15477jmb1l: {
     top: 0,
     left: 0,
     width: 268,
@@ -69,7 +69,7 @@ export const style = {
     justifyContent: "center",
     strokeMiterlimit: 4,
   },
-  aythCaptura_dezxgadf: {
+  aythCaptura_dez40asf: {
     top: 0,
     left: 0,
     width: 262,
@@ -81,7 +81,7 @@ export const style = {
     backgroundColor: "transparent",
     strokeMiterlimit: 4,
   },
-  aythENCUENTRATeih7yn: {
+  aythENCUENTRATmylsvp: {
     top: 0,
     left: 0,
     width: 268,
@@ -100,7 +100,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythFrame15477d1nzh: {
+  aythFrame15477bnwnau: {
     top: 0,
     left: 0,
     width: 318,
@@ -119,7 +119,7 @@ export const style = {
     justifyContent: "flex-end",
     strokeMiterlimit: 4,
   },
-  aythFrame154776ne3sd: {
+  aythFrame154776or5l9: {
     top: 0,
     left: 0,
     width: 318,
@@ -146,7 +146,7 @@ export const style = {
     borderBottomLeftRadius: 50,
     borderBottomRightRadius: 50,
   },
-  aythNombredeusk2obrm: {
+  aythNombredeusd0wbls: {
     top: 0,
     left: 0,
     width: 167,
@@ -165,7 +165,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythFrame15477enam2: {
+  aythFrame15477xlbw4k: {
     top: 0,
     left: 0,
     width: 318,
@@ -192,7 +192,7 @@ export const style = {
     borderBottomLeftRadius: 50,
     borderBottomRightRadius: 50,
   },
-  aythEmaill6ldj: {
+  aythEmail96g10t: {
     top: 0,
     left: 0,
     width: 48,
@@ -211,7 +211,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythFrame15477rj5p47: {
+  aythFrame15477mfbd8s: {
     top: 0,
     left: 0,
     width: 318,
@@ -238,7 +238,7 @@ export const style = {
     borderBottomLeftRadius: 50,
     borderBottomRightRadius: 50,
   },
-  aythContraseaefppwk: {
+  aythContrasea2jg99h: {
     top: 0,
     left: 0,
     width: 103,
@@ -257,7 +257,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythFrame15477dptanc: {
+  aythFrame15477n3abfg: {
     top: 0,
     left: 0,
     width: 318,
@@ -284,7 +284,7 @@ export const style = {
     borderBottomLeftRadius: 50,
     borderBottomRightRadius: 50,
   },
-  aythRegistrars10wrfp: {
+  aythRegistrarskpxkyf: {
     top: 0,
     left: 0,
     width: 102,
@@ -303,7 +303,7 @@ export const style = {
     strokeMiterlimit: 4,
     WebkitBackgroundClip: "text",
   },
-  aythHasolvidad8gjru: {
+  aythHasolvidadzphzzb: {
     top: 0,
     left: 0,
     width: 218,
