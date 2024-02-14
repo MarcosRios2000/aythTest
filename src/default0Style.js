@@ -1,5 +1,5 @@
 export const style = {
-  aythdefaultwmmpbb: {
+  aythdefault0er4qe: {
     position: 'relative',
     top: 0,
     left: 0,

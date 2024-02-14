@@ -1,4 +1,4 @@
-import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs'
+import { createDrawerNavigator  } from '@react-navigation/drawer'
     import { NavigationContainer } from '@react-navigation/native'
 
 
@@ -9,7 +9,7 @@ import Registrarse3 from './src/Registrarse3'
 import Pruebasencontradasde4 from './src/Pruebasencontradasde4'
 import Pruebasencontradasde5 from './src/Pruebasencontradasde5'
 
-const Tab = createMaterialTopTabNavigator()
+const Tab = createDrawerNavigator ()
 
 function MyTabs() {
     return (
